@@ -1,8 +1,8 @@
 # EVERCELL — The Catalogue Photo of an Impossible Gadget
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
+[![make.fun · the-catalogue-photo-of-an-2-20261121-0341](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
+[![rank](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/ruri08219/the-catalogue-photo-of-an-2-20261121-0341/rank.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
+[![reward](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/ruri08219/the-catalogue-photo-of-an-2-20261121-0341/reward.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
 
 Entry for the [make.fun competition "The Catalogue Photo of an Impossible Gadget"](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341) ($20, free entry).
 
